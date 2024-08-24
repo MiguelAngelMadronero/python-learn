@@ -1,0 +1,4 @@
+Nombre: Juan
+Edad: 31
+Ciudad: Madrid
+Ocupacion: Desarrollador
